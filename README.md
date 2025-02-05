@@ -47,11 +47,11 @@ I love solving real-world problems through technology, continuously learning, an
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Trikzmr"><img src="https://github-readme-stats-saurabh-shetes-projects.vercel.app/api?username=saurabh-shete&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saurabh-shete's GitHub stats" /></a>
+<a href="http://www.github.com/Trikzmr"><img src="https://github-readme-stats-saurabh-shetes-projects.vercel.app/api?username=Trikzmr&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saurabh-shete's GitHub stats" /></a>
 
-<a href="http://www.github.com/Trikzmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-shete&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Trikzmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Trikzmr&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Trikzmr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-shete&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Trikzmr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trikzmr&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Socials
